@@ -1,0 +1,10 @@
+c:\users\huhp\documents\visual studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\bin\Debug\ReadGTDocument.exe.config
+C:\Users\huhp\Documents\Visual Studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\bin\Debug\ReadGTDocument.exe
+C:\Users\huhp\Documents\Visual Studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\bin\Debug\ReadGTDocument.pdb
+C:\Users\huhp\Documents\Visual Studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\obj\Debug\ReadGTDocument.csprojResolveAssemblyReference.cache
+C:\Users\huhp\Documents\Visual Studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\obj\Debug\ReadGTDocument.Form1.resources
+C:\Users\huhp\Documents\Visual Studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\obj\Debug\ReadGTDocument.Properties.Resources.resources
+C:\Users\huhp\Documents\Visual Studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\obj\Debug\ReadGTDocument.csproj.GenerateResource.Cache
+C:\Users\huhp\Documents\Visual Studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\obj\Debug\ReadGTDocument.exe
+C:\Users\huhp\Documents\Visual Studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\obj\Debug\ReadGTDocument.pdb
+C:\Users\huhp\Documents\Visual Studio 2013\Projects\读取柜台周边接口文档\ReadGTDocument\obj\Debug\ReadGTDocument.csproj.ResolveComReference.cache
